@@ -6,5 +6,6 @@ Technology Used:
 2. Azure Web App
 3. Azure Bot
 
-in case if chatbot is work click on below link
+In case if chatbot is not work please click on below link
+
 link for chatbot: https://webchat.botframework.com/embed/ApplicationDesignBot/gemini?b=ApplicationDesignBot&s=4AJx11Y_OsQ.Tl3pLByuaQMvnuX4uK-XAczOP8IJlQOz5_a4ev0nOLE&username=You
