@@ -5,3 +5,5 @@ Technology Used:
 1. Azure Static Web App
 2. Azure Web App
 3. Azure Bot
+
+link for chatbot: https://webchat.botframework.com/embed/ApplicationDesignBot/gemini?b=ApplicationDesignBot&s=4AJx11Y_OsQ.Tl3pLByuaQMvnuX4uK-XAczOP8IJlQOz5_a4ev0nOLE&username=You
